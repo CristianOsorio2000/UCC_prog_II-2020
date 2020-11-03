@@ -1,7 +1,7 @@
 public class ProgramaHolaMundo {
   public static void main(String[] args) {
    System.out.println("+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-");
-   System.out.println("-Autor: Cristian Andres Osorio Vernaza +");               
+   System.out.println("-Autor: Cristian Andres Osorio Vernaza +");
    System.out.println("+                                      -");
    System.out.println("-        INGENIERIA EN SISTEMAS        +");
    System.out.println("+                                      -");
